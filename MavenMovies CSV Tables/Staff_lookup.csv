@@ -1,0 +1,3 @@
+staff_id,store_id,active,first_name,last_name,email_address
+1,1,1,Mike,Hillyer,Mike.Hillyer@sakilastaff.com
+2,2,1,Jon,Stephens,Jon.Stephens@sakilastaff.com
